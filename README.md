@@ -1,0 +1,2 @@
+# maxprofitableretailer
+Hadoop hive implementation
